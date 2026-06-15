@@ -37,7 +37,7 @@ Anéis;
 Brincos;
 Braceletes;
 Pulseiras;
-Colares.
+Colares;
 
 Fluxo do Sistema
 
